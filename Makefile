@@ -7,7 +7,7 @@
 ### @see     https://www.gnu.org/software/make/manual/make.html
 ###
 ### @file    Makefile
-### @author  @todo yourName <@todo yourMail@hawaii.edu>
+### @author  Mark Nelson <marknels@hawaii.edu>
 ###############################################################################
 
 TARGET = catnap

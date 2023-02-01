@@ -1,13 +1,13 @@
 ###############################################################################
 ###               University of Hawaii, College of Engineering
-###               Lab 2 - Countdown - SRE - Spring 2023
+###               Lab 2 - Catnap - SRE - Spring 2023
 ###
 ### Tells git which files to ignore
 ###
 ### @see https://git-scm.com/docs/gitignore
 ###
 ### @file .gitignore
-### @author @todo yourName <@todo yourMail@hawaii.edu>
+### @author Mark Nelson <marknels@hawaii.edu>
 ###############################################################################
 
 
