@@ -64,7 +64,9 @@ const int secondsInYear    = secondsInDay    * 365;
 ///
 /// labs :: long absolute value (from stdlib.h)
 void printDifference( double differenceInSeconds ) {
-   // printf ("%lf\n", differenceInSeconds);
+	#ifdef DEBUG
+      printf ("differenceInSeconds = %lf\n", differenceInSeconds);
+   #endif
 
    /// How many whole years are in differenceInSeconds?
    long differenceInYears    = (long) differenceInSeconds / secondsInYear;
