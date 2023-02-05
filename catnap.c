@@ -43,12 +43,10 @@
 const int REFERENCE_YEAR   = 2000;
 const int REFERENCE_MONTH  =   05;    // Jan = 01, Feb = 02, ... Dec = 12
 const int REFERENCE_DAY    =   04;    // Day of the month
-//const int REFERENCE_HOUR   =   02;    // On a 24-hour clock
-//const int REFERENCE_MINUTE =   12;
 const int REFERENCE_HOUR   =   22;    // On a 24-hour clock
 const int REFERENCE_MINUTE =   41;
 
-const int secondsInMinute  = 60;
+const int secondsInMinute  =                    60;
 const int secondsInHour    = secondsInMinute *  60;
 const int secondsInDay     = secondsInHour   *  24;
 const int secondsInYear    = secondsInDay    * 365;
